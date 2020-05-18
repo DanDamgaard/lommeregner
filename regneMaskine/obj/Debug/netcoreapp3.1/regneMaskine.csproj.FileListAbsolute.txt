@@ -1,0 +1,13 @@
+C:\Users\Dan Damgaard\source\repos\regneMaskine\regneMaskine\bin\Debug\netcoreapp3.1\regneMaskine.exe
+C:\Users\Dan Damgaard\source\repos\regneMaskine\regneMaskine\bin\Debug\netcoreapp3.1\regneMaskine.deps.json
+C:\Users\Dan Damgaard\source\repos\regneMaskine\regneMaskine\bin\Debug\netcoreapp3.1\regneMaskine.runtimeconfig.json
+C:\Users\Dan Damgaard\source\repos\regneMaskine\regneMaskine\bin\Debug\netcoreapp3.1\regneMaskine.runtimeconfig.dev.json
+C:\Users\Dan Damgaard\source\repos\regneMaskine\regneMaskine\bin\Debug\netcoreapp3.1\regneMaskine.dll
+C:\Users\Dan Damgaard\source\repos\regneMaskine\regneMaskine\bin\Debug\netcoreapp3.1\regneMaskine.pdb
+C:\Users\Dan Damgaard\source\repos\regneMaskine\regneMaskine\obj\Debug\netcoreapp3.1\regneMaskine.csproj.CoreCompileInputs.cache
+C:\Users\Dan Damgaard\source\repos\regneMaskine\regneMaskine\obj\Debug\netcoreapp3.1\regneMaskine.AssemblyInfoInputs.cache
+C:\Users\Dan Damgaard\source\repos\regneMaskine\regneMaskine\obj\Debug\netcoreapp3.1\regneMaskine.AssemblyInfo.cs
+C:\Users\Dan Damgaard\source\repos\regneMaskine\regneMaskine\obj\Debug\netcoreapp3.1\regneMaskine.dll
+C:\Users\Dan Damgaard\source\repos\regneMaskine\regneMaskine\obj\Debug\netcoreapp3.1\regneMaskine.pdb
+C:\Users\Dan Damgaard\source\repos\regneMaskine\regneMaskine\obj\Debug\netcoreapp3.1\regneMaskine.genruntimeconfig.cache
+C:\Users\Dan Damgaard\source\repos\regneMaskine\regneMaskine\obj\Debug\netcoreapp3.1\regneMaskine.csprojAssemblyReference.cache
